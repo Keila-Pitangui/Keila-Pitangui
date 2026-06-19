@@ -223,7 +223,7 @@ Originally from Brasília, I am 29 years old and hold a degree in Systems Analys
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
