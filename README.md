@@ -178,7 +178,7 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"                    
 />  
 
----
+
 ---
 
 ### 📊 Estatísticas
