@@ -57,14 +57,6 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
 />
 <img 
     align="left" 
-    alt="Azure-Devops"
-    title="Azure-Devops" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"       
-/>
-<img 
-    align="left" 
     alt="Red-Hat" 
     title="Red-Hat"
     width="30px" 
@@ -114,6 +106,14 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
 />
 <img 
     align="left" 
+    alt="Azure-Devops"
+    title="Azure-Devops" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"       
+/>
+<img 
+    align="left" 
     alt="PowerShell" 
     title="PowerShell"
     width="30px" 
@@ -128,6 +128,14 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Helm" 
+    title="Helm"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg"       
 />
 <img 
     align="left" 
@@ -152,14 +160,6 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"        
-/>
-<img 
-    align="left" 
-    alt="Helm" 
-    title="Helm"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg"       
 />
 <img 
     align="left" 
