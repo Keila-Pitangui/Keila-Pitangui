@@ -49,14 +49,6 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
 />
 <img 
     align="left" 
-    alt="DigitalOcean"
-    title="DigitalOcean" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg"     
-/>
-<img 
-    align="left" 
     alt="Oracle" 
     title="Oracle"
     width="30px" 
@@ -171,14 +163,6 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
 />
 <img 
     align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"       
-/>
-<img 
-    align="left" 
     alt="Nginx" 
     title="Nginx"
     width="30px" 
@@ -192,15 +176,7 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"                    
-/> 
-<img 
-    align="left" 
-    alt="Nginx" 
-    title="Nginx"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"                            
-/>      
+/>  
 
 <br/>
 <br/>
