@@ -179,6 +179,7 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
 />  
 
 ---
+---
 
 ### 📊 Estatísticas
 
@@ -200,5 +201,4 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
 
 </p>
 
----
 
