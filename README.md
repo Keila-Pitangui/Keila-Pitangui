@@ -3,10 +3,10 @@
 
 **`DevOps`**
 
-Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento de Sistemas pela UDF. Sou uma profissional apaixonada por tecnologia, com foco consolidado em engenharia de sistemas, infraestrutura moderna e cultura DevOps.
+Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento de Sistemas pela UDF. Sou uma profissional apaixonada por tecnologia, com foco consolidado em engenharia de sistemas, infraestrutura moderna e cultura DevOps. 
 
+🇧🇷 Brazil
 
-<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href=https://www.linkedin.com/in/keilapitangui/ target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40" /></a>
 </p>
@@ -178,10 +178,8 @@ Natural de Brasília, tenho 29 anos e sou graduada em Análise e Desenvolvimento
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"                    
 />  
 
-<br/>
-<br/>
-
 ---
+
 ### 📊 Estatísticas
 
 <p>
