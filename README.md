@@ -42,8 +42,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
-
 <br></br>
 
 
