@@ -1,13 +1,27 @@
 
 ### DevOps - SRE 🇧🇷 Brazil
 
-Originally from Brasília, I am 29 years old and hold a degree in Systems Analysis and Development from UDF. I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
+---
 
-### Connect with me 
-<p align="left">
-<a href=https://www.linkedin.com/in/keilapitangui/ target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
+### Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Keila-Pitangui&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-<br>
 
 ---
 
@@ -21,6 +35,16 @@ Originally from Brasília, I am 29 years old and hold a degree in Systems Analys
 * Linux Systems Administration
 
 <br>
+
+---
+
+
+### Connect with me 
+<p align="left">
+<a href=https://www.linkedin.com/in/keilapitangui/ target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
+</p>
+<br>
+
 
 ---
 
@@ -220,24 +244,5 @@ Originally from Brasília, I am 29 years old and hold a degree in Systems Analys
 
 ---
 
-### Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Keila-Pitangui&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 
