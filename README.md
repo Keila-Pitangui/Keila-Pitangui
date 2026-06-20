@@ -3,7 +3,7 @@
 
 ---
 
-### Estatísticas
+### Statistics
 
 <p>
   <img 
@@ -22,6 +22,8 @@
   />
 
 </p>
+
+<br>
 
 ---
 
