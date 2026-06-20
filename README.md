@@ -25,21 +25,6 @@
 
 ---
 
-<br>
-
-### What I Do
-
-* Automation & Infrastructure as Code (IaC)
-* Containerization & Orchestration
-* Cloud & Core Infrastructure
-* Observability & Telemetry
-* FinOps & Performance Optimization
-* Linux Systems Administration
-
-<br>
-
----
-
 
 ### Connect with me 
 <p align="left">
