@@ -3,6 +3,27 @@
 
 ---
 
+<br>
+
+### What I Do
+
+* Automation & Infrastructure as Code (IaC)
+* Containerization & Orchestration
+* Cloud & Core Infrastructure
+* Observability & Telemetry
+* FinOps & Performance Optimization
+* Linux Systems Administration
+
+<br>
+
+### Connect with me 
+<p align="left">
+<a href=https://www.linkedin.com/in/keilapitangui/ target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
+</p>
+<br>
+
+---
+
 ### Statistics
 
 <p>
@@ -25,29 +46,6 @@
 
 <br></br>
 
----
-
-<br>
-
-### What I Do
-
-* Automation & Infrastructure as Code (IaC)
-* Containerization & Orchestration
-* Cloud & Core Infrastructure
-* Observability & Telemetry
-* FinOps & Performance Optimization
-* Linux Systems Administration
-
-<br>
-
-### Connect with me 
-<p align="left">
-<a href=https://www.linkedin.com/in/keilapitangui/ target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
-</p>
-<br>
-
-
----
 
 ### DevOps, IaC & CI/CD
 
