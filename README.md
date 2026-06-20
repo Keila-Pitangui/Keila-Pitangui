@@ -1,14 +1,11 @@
 
-# 💻 Keila Pitangui 
-
-**`DevOps`** 🇧🇷 Brazil
+### DevOps - SRE 🇧🇷 Brazil
 
 Originally from Brasília, I am 29 years old and hold a degree in Systems Analysis and Development from UDF. I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
 
 ### Connect with me 
-
 <p align="left">
-<a href=https://www.linkedin.com/in/keilapitangui/ target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40" /></a>
+<a href=https://www.linkedin.com/in/keilapitangui/ target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
 </p>
 <br>
 
