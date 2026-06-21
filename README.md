@@ -35,7 +35,10 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
 * Linux Systems Administration
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Keila-Pitangui)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
