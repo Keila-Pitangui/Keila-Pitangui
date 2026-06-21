@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps;Cloud+and+Infrastructure+as+code)](https://git.io/typing-svg)
 
 ### DevOps - SRE 🇧🇷 Brazil
 
