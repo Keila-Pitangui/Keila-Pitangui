@@ -6,8 +6,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Square&size=45&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+-+SRE;Automation+%26+Orchestration" alt="Typing SVG" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Keila-Pitangui&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="profile stats" title="profile stats">
@@ -183,7 +181,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
