@@ -234,8 +234,7 @@ I am a technology-loving professional with a strong focus on systems engineering
 <img 
       align="left" 
       alt="GitHub Stats"
-      width="500"
-      height="400"
+      width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
