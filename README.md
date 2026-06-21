@@ -17,13 +17,6 @@ I am a technology-loving professional with a strong focus on systems engineering
 * Linux Systems Administration
 
 <br>
-
-### Connect with me 
-<p align="left">
-<a href=https://www.linkedin.com/in/keilapitangui/ target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
-</p>
-<br>
-
 ---
 
 ### DevOps, IaC & CI/CD
