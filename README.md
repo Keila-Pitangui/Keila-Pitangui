@@ -7,11 +7,6 @@
 </p>
 
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Keila-Pitangui&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="profile stats" title="profile stats">
-</p>
-
-<p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Keila-Pitangui&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
