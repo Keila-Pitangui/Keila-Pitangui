@@ -181,7 +181,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
