@@ -2,7 +2,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Square&size=45&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+-+SRE;Automation+%26+Orchestration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Square&size=45&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+-+SRE;Automation+%26+Orchestration)](https://git.io/typing-svg)
 
 
 <p align="center">
