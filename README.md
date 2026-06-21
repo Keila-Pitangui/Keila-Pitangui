@@ -5,31 +5,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Square&size=45&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+-+SRE;Automation+%26+Orchestration)](https://git.io/typing-svg)
 
 
-
-I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
-
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Snoopy1866&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="profile stats" title="profile stats">
+    <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Keila-Pitangui&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="profile stats" title="profile stats">
 </p>
 
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Snoopy1866&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Keila-Pitangui&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
 
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy-fork-two.vercel.app/?username=Snoopy1866&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
+    <img width="800" src="https://github-profile-trophy-fork-two.vercel.app/?username=Keila-Pitangui&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy"/>
 </p>
---- 
+
 
 <br>
 
+--- 
 
+I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
 
-### What I Do
+ What I Do:
 
 * Automation & Infrastructure as Code (IaC)
 * Containerization & Orchestration
