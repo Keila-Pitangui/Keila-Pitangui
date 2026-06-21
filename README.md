@@ -1,4 +1,6 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps;Second+line+of+text)](https://git.io/typing-svg)
+
 ### DevOps - SRE 🇧🇷 Brazil
 
 I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
