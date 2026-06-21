@@ -18,6 +18,7 @@
 
 
 <br>
+
 --- 
 
 I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
@@ -85,12 +86,6 @@ I am a technology-loving professional with a strong focus on systems engineering
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"       
 />
-<br>
-
----
-
-### Containers & Web Servers
-
 <img 
     align="left" 
     alt="Docker"
@@ -123,11 +118,6 @@ I am a technology-loving professional with a strong focus on systems engineering
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"             
 />
-<br>
-
----
-
-### Cloud Providers & Network
 <img 
     align="left" 
     alt="Cloudflare" 
@@ -168,11 +158,6 @@ I am a technology-loving professional with a strong focus on systems engineering
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"     
 />
-<br>
-
----
-
-### Operating Systems and Automation
 <img 
     align="left" 
     alt="Linux" 
@@ -205,12 +190,6 @@ I am a technology-loving professional with a strong focus on systems engineering
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"                    
 /> 
-<br>
-
----
-
-### Observability
-
 <img 
     align="left" 
     alt="Grafana" 
