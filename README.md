@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Square&size=45&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+-+SRE;Automation+%26+Orchestration)](https://git.io/typing-svg)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nova+Square&size=45&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+-+SRE;Automation+%26+Orchestration" alt="Typing SVG" /></a>
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
