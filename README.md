@@ -4,56 +4,9 @@
 
 ---
 
-<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prosto+One&size=45&pause=1000&color=15485F&center=true&vCenter=true&width=435&lines=DevOps+-+SRE;Cloud+%26+IaC" alt="Typing SVG" /></a> 
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Prosto+One&size=45&pause=1000&color=15485F&center=true&vCenter=true&width=435&lines=DevOps+-+SRE;Cloud+%26+IaC" alt="Typing SVG" />
-  </a>
 
-  <br><br>
-
-  <div style="
-    width: 240px; 
-    height: 120px; 
-    border-bottom: 4px solid #15485F; 
-    position: relative; 
-    overflow: hidden;
-    background: transparent;
-  ">
-    
-  <style>
-      @keyframes fall-and-lock {
-        0% { transform: translateY(-50px); opacity: 0; }
-        10% { opacity: 1; }
-        100% { transform: translateY(0); opacity: 1; }
-      }
-      .pixel-block {
-        position: absolute;
-        background: #15485F;
-        border: 2px solid #0d2d3c;
-        box-sizing: border-box;
-        animation: fall-and-lock 1.2s cubic-bezier(0.25, 1, 0.5, 1) forwards;
-      }
-    </style>
-
-  <div class="pixel-block" style="width: 40px; height: 20px; bottom: 0; left: 20px; animation-delay: 0.1s;"></div>
-  <div class="pixel-block" style="width: 20px; height: 40px; bottom: 0; left: 60px; animation-delay: 0.3s;"></div>
-  <div class="pixel-block" style="width: 60px; height: 20px; bottom: 0; left: 140px; animation-delay: 0.2s;"></div>
-    
-  <div class="pixel-block" style="width: 40px; height: 20px; bottom: 20px; left: 100px; animation-delay: 0.6s;"></div>
-  <div class="pixel-block" style="width: 20px; height: 20px; bottom: 20px; left: 40px; animation-delay: 0.8s;"></div>
-
-  <div class="pixel-block" style="width: 20px; height: 40px; bottom: 20px; left: 80px; animation-delay: 1.2s; background: #237094;"></div>
-  <div class="pixel-block" style="width: 40px; height: 20px; bottom: 40px; left: 100px; animation-delay: 1.6s; background: #2e8cb8;"></div>
-  <div class="pixel-block" style="width: 20px; height: 20px; bottom: 20px; left: 140px; animation-delay: 2.0s; background: #4ca6d1;"></div>
-
-  </div>
-
-  <p style="font-family: monospace; color: #15485F; font-size: 12px; margin-top: 8px;">
-    [ DEPLOYING INFRASTRUCTURE COMPONENT... ]
-  </p>
-
-</div>
 
 I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
 
