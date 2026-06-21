@@ -130,14 +130,6 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
 />
 <img 
     align="left" 
-    alt="Oracle" 
-    title="Oracle"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  
-/>
-<img 
-    align="left" 
     alt="Azure" 
     title="Azure"
     width="30px" 
@@ -192,6 +184,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"        
 />
+
 <br>
 
 
