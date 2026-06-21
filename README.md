@@ -21,9 +21,11 @@
 
 --- 
 
-I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
+### About me:
 
- What I Do:
+Hi, my name is Keila! My passion for technology started early, fueled by a curious and proactive childhood. Today, I've turned that passion into a career, working in systems engineering, modern infrastructure, and DevOps culture. I'm fascinated by solving problems and provisioning infrastructure resources. I enjoy studying and am always looking to improve my knowledge and learn new things.
+
+### What I Do:
 
 * Automation & Infrastructure as Code (IaC)
 * Containerization & Orchestration
@@ -36,7 +38,7 @@ I am a technology-loving professional with a strong focus on systems engineering
 
 ---
 
-### DevOps, IaC & CI/CD
+### Technologies
 
 <img 
     align="left" 
