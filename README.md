@@ -196,13 +196,14 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
 
 
 ---
+
 <p aling="center">
 <img 
-      align="left" 
       alt="GitHub Stats"
       width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
 
 
