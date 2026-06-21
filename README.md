@@ -17,16 +17,6 @@
 
 
 <br>
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-<br></br>
 --- 
 
 I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
@@ -237,6 +227,17 @@ I am a technology-loving professional with a strong focus on systems engineering
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"        
 />
 <br>
+
+
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+<br></br>
 
 ---
 
