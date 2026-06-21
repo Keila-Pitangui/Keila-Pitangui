@@ -45,7 +45,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="GithubAction" 
     title="GithubAction"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"     
 />
 <img 
@@ -53,7 +53,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="Terraform" 
     title="Terraform"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"               
 />
 <img 
@@ -69,7 +69,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="Argo" 
     title="Argo"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg"  
 />
 <img 
@@ -77,7 +77,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -85,7 +85,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="Azure-Devops"
     title="Azure-Devops" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"       
 />
 <img 
@@ -93,7 +93,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="Docker"
     title="Docker" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"             
 />
 <img 
@@ -101,7 +101,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="Kubernetes" 
     title="Kubernetes"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"        
 />
 <img 
@@ -109,16 +109,8 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="Helm" 
     title="Helm"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg"       
-/>
-<img 
-    align="left" 
-    alt="Nginx" 
-    title="Nginx"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"             
 />
 <img 
     align="left" 
@@ -133,23 +125,15 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="Azure" 
     title="Azure"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"  
-/>
-<img 
-    align="left" 
-    alt="Cloudflare" 
-    title="Cloudflare"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"     
 />
 <img 
     align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"       
 />
 <img 
@@ -157,7 +141,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="PowerShell" 
     title="PowerShell"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
 />
 <img 
@@ -165,7 +149,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"                    
 /> 
 <img 
@@ -181,7 +165,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
     alt="Prometheus" 
     title="Prometheus"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"        
 />
 
