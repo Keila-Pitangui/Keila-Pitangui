@@ -8,7 +8,7 @@
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Keila-Pitangui&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="profile stats" title="profile stats">
+    <img width="400" src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Keila-Pitangui&theme=transparent&hide_border=true&date_format=Y" alt="profile stats" title="profile stats">
 </p>
 
 <p align="center">
