@@ -38,7 +38,7 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
 
 <br>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Keila-Pitangui)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
