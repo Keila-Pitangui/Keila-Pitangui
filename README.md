@@ -1,10 +1,8 @@
 
 
-
-
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Prosto+One&size=45&pause=1000&color=15485F&center=true&vCenter=true&width=435&lines=DevOps+-+SRE;Cloud+%26+IaC" alt="Typing SVG" /></a> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Square&size=45&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+-+SRE;Automation+%26+Orchestration)](https://git.io/typing-svg)
 
 
 
