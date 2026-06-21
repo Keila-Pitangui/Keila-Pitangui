@@ -34,6 +34,8 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
 * FinOps & Performance Optimization
 * Linux Systems Administration
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 ---
@@ -172,17 +174,6 @@ Hi, my name is Keila! My passion for technology started early, fueled by a curio
 <br>
 
 
----
-
-<p aling="center">
-<img 
-      alt="GitHub Stats"
-      width="400"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 
 
