@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Metamorphous&weight=800&size=23&pause=1000&color=288AB6&width=435&height=52&lines=Devops+-+SRE;Cloud+and+Infrastructure+as+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Metamorphous&size=50&pause=1000&color=1A5C79&width=435&lines=Devops+-+SRE;Cloud+and+Infrastructure+as+code)](https://git.io/typing-svg)
 
 ### DevOps - SRE 🇧🇷 Brazil
 
