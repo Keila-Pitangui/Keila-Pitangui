@@ -1,6 +1,8 @@
 
 ### DevOps - SRE 🇧🇷 Brazil
 
+I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
+
 ---
 
 <br>
