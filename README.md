@@ -2,12 +2,13 @@
 
 
 
-
-I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Metamorphous&size=50&pause=1000&color=1A5C79&center=true&vCenter=true&width=432&lines=Devops+-+SRE;Cloud+and+Infrastructure+as+code)](https://git.io/typing-svg)
+
+I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
+
+--- 
 
 <br>
 
