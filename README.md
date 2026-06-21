@@ -9,9 +9,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Prosto+One&size=45&pause=1000&color=15485F&center=true&vCenter=true&width=435&lines=DevOps+-+SRE;Cloud+%26+IaC" alt="Typing SVG" />
   </a>
 
-  <br />
+  <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=15485F&height=120&section=footer&reversal=false" width="100%" />
+  <img src="https://github-cube-v2.vercel.app/api/cube?bg=00000000&color=15485F&speed=2" width="300" />
 </div>
 
 I am a technology-loving professional with a strong focus on systems engineering, modern infrastructure, and DevOps culture.
