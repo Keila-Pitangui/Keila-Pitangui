@@ -120,14 +120,6 @@ I am a technology-loving professional with a strong focus on systems engineering
 />
 <img 
     align="left" 
-    alt="Cloudflare" 
-    title="Cloudflare"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"     
-/>
-<img 
-    align="left" 
     alt="AWS"
     title="AWS" 
     width="30px" 
@@ -168,14 +160,6 @@ I am a technology-loving professional with a strong focus on systems engineering
 />
 <img 
     align="left" 
-    alt="Fedora" 
-    title="Fedora"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg"        
-/>
-<img 
-    align="left" 
     alt="PowerShell" 
     title="PowerShell"
     width="30px" 
@@ -210,14 +194,13 @@ I am a technology-loving professional with a strong focus on systems engineering
 
 
 ---
-
+<p aling="center">
 <img 
       align="left" 
       alt="GitHub Stats"
       width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila-Pitangui&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-<br></br>
+</p>
 
 
